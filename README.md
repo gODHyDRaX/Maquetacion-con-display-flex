@@ -18,7 +18,7 @@ Javier Eduardo Mayen Cruz
 My page
 </td>
 <td>
-https://godhydrax.github.io/Diccionario/
+https://godhydrax.github.io/Maquetacion-con-display-flex/
 </td>
 </tr>
 
